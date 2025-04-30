@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React js, Node js**
 
-💬 Ask me about **Node.js, React... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React... or anything [here](https://github.com/Subashkumawat34/Subashkumawat34/issues)**
 
 ⚡ Fun fact **Playing 🏸 badminton and listening to 🎧 music**
 
