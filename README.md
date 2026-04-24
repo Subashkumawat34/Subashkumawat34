@@ -70,33 +70,33 @@
           🔗 <a href="https://ai-portfolio-frontend-rho.vercel.app/home">Live Demo</a> |
           <a href="https://github.com/Subashkumawat34/AI-Based-Portfolio-Website-Generator">GitHub</a>
         </p>
-      </td>
+      </td><!-- Project 2 -->
+<td width="50%" align="center">
+  <h3>🌾 AI-Based Agriculture Supply Chain (FarmChainX)</h3>
+  <p>
+    🚜 Developed a full-stack platform to ensure end-to-end traceability of agricultural products from farm to consumer.<br>
+    📊 Implemented real-time tracking, role-based access, and transparency across the supply chain lifecycle.<br><br>
+    <strong>Tech Stack:</strong> React.js | Node.js | Express.js | MongoDB | REST APIs | AI Integration <br><br>
+    🔗 <a href="https://farmchainx-frontend.vercel.app/" target="_blank">Live Demo</a>
+  </p>
+</td>
+</tr>
 
-      <!-- Project 2 -->
-      <td width="50%" align="center">
-        <h3>🌾 AI-Based Agriculture Supply Chain (FarmChainX)</h3>
-        <p>
-          🚜 Full-stack system to track agricultural products from farm to consumer.<br>
-          📊 Real-time tracking & transparency across supply chain.<br><br>
-          <strong>Tech:</strong> React.js | Node.js | MongoDB | AI | REST APIs <br><br>
-          🔗 <a href="https://farmchainx-frontend.vercel.app/">Live Demo</a>
-        </p>
-      </td>
-    </tr>
-
-    <tr>
-      <!-- Project 3 -->
-      <td width="50%" align="center">
-        <h3>🛍️ Myntra Functional Clone</h3>
-        <p>
-          🛒 Responsive e-commerce UI replicating Myntra platform.<br>
-          🎯 Focus on UI/UX and frontend optimization.<br><br>
-          <strong>Tech:</strong> React.js | CSS | JavaScript <br><br>
-          🔗 <a href="https://myntra-clone-seven-smoky.vercel.app/">Live Demo</a>
-        </p>
-      </td>
-    </tr>
-  </table>
+<tr>
+  <!-- Project 3 -->
+  <td width="50%" align="center">
+    <h3>🛍️ Myntra Functional Clone</h3>
+    <p>
+      🛒 Built a responsive e-commerce web application replicating core features of the Myntra platform.<br>
+      🎯 Focused on modern UI/UX design, component-based architecture, and performance optimization.<br><br>
+      <strong>Tech Stack:</strong> React.js | JavaScript | CSS3 <br><br>
+      🔗 <a href="https://myntra-clone-seven-smoky.vercel.app/" target="_blank">Live Demo</a>
+    </p>
+  </td>
+</tr>
+</table>
+</div>
+</table>
 </div>
 
 ---
